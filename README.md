@@ -7,12 +7,6 @@ The following resources are generated when the cdk stack is deployed:
 1. API Gateway - A REST end-point to post connection speed data to as JSON. 
 2. Lambda - Receives connection speed data and persists the data as custom metrics in cloud watch.
 
-###Visualizing Metrics
-
-Cloud Watch provides visualizations for the metrics but Grafana is a better visualization tool IMO and has a free cloud watch data source that comes with it :
-
-https://grafana.com/docs/grafana/latest/features/datasources/cloudwatch/
-
 ## Install Instructions
 
 These instructions assume you have a basic understanding of aws and also have experience calling aws apis using some kind of command line interface tool like the aws cli.
