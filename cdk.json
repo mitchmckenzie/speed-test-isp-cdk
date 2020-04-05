@@ -1,0 +1,3 @@
+{
+  "app": "npx ts-node bin/speed-test-isp-cdk.ts"
+}
