@@ -93,6 +93,8 @@ Here is an example payload:
 
 Cloud Watch provides visualizations for the metrics but Grafana is a better visualization tool IMO and has a free cloud watch data source that comes with it :
 
+https://grafana.com/docs/grafana/latest/features/datasources/cloudwatch/
+
 #### Example Dashboard :
 
 ![Example Dashboard](dashboard.png)
